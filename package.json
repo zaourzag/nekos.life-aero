@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nekos-life/nekos-dot-life.git"
+    "url": "git+https://github.com/zaourzag/nekos.life-aero.git"
   },
   "keywords": [
     "nekos",
@@ -19,9 +19,9 @@
   "author": "zaourzag",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Nekos-life/nekos-dot-life/issues"
+    "url": "https://github.com/zaourzag/nekos.life-aero/issues"
   },
-  "homepage": "https://github.com/Nekos-life/nekos-dot-life#readme",
+  "homepage": "https://github.com/zaourzag/nekos.life-aero#readme",
   "dependencies": {
     "@aero/http": "^1.1.1"
   }
