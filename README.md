@@ -1,8 +1,8 @@
-[![npm](https://img.shields.io/npm/v/nekos.life.svg)](https://www.npmjs.com/package/nekos.life)
-[![npm](https://img.shields.io/npm/dt/nekos.life.svg?maxAge=3600)](https://www.npmjs.com/package/nekos.life)
-[![install size](https://packagephobia.now.sh/badge?p=nekos.life)](https://packagephobia.now.sh/result?p=nekos.life)
-
- 
+[![npm](https://img.shields.io/npm/v/@z.aourzag/nekos.life-aero.svg)](https://www.npmjs.com/package@z.aourzag/nekos.life-aero)
+[![npm](https://img.shields.io/npm/dt/@z.aourzag/nekos.life-aero.svg?maxAge=3600)](https://www.npmjs.com/package@z.aourzag/nekos.life-aero)
+[![install size](https://packagephobia.now.sh/badge?p=@z.aourzag/nekos.life-aero)](https://packagephobia.now.sh/result?p=@z.aourzag/nekos.life-aero)
+[![Node.js Package](https://github.com/zaourzag/nekos.life-aero/actions/workflows/npm-publish-github-packages.yml/badge.svg)](https://github.com/zaourzag/nekos.life-aero/actions/workflows/npm-publish-github-packages.yml)
+ [![CodeQL](https://github.com/zaourzag/nekos.life-aero/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/zaourzag/nekos.life-aero/actions/workflows/codeql-analysis.yml)
 [![NPM](https://nodei.co/npm/nekos.life.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/nekos.life/)
 
 
