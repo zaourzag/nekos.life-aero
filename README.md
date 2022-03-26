@@ -3,7 +3,7 @@
 [![install size](https://packagephobia.now.sh/badge?p=@z.aourzag/nekos.life-aero)](https://packagephobia.now.sh/result?p=@z.aourzag/nekos.life-aero)
 [![Node.js Package](https://github.com/zaourzag/nekos.life-aero/actions/workflows/npm-publish-github-packages.yml/badge.svg)](https://github.com/zaourzag/nekos.life-aero/actions/workflows/npm-publish-github-packages.yml)
  [![CodeQL](https://github.com/zaourzag/nekos.life-aero/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/zaourzag/nekos.life-aero/actions/workflows/codeql-analysis.yml)
-[![NPM](https://nodei.co/npm/nekos.life.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/nekos.life/)
+[![NPM](https://nodei.co/npm/@z.aourzag/nekos.life-aero.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/@z.aourzag/nekos.life-aero/)
 
 
 # Nekos.life
