@@ -1,5 +1,5 @@
 {
-  "name": "@zaourzag/nekos.life-aero",
+  "name": "@z.aourzag/nekos.life-aero",
   "version": "2.0.9",
   "description": "JS wrapper for https://nekos.life",
   "main": "index.js",
